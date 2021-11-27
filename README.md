@@ -24,8 +24,7 @@ I am **Tanishi Srivastava**, Computer Science Engineer. I am keen interested in 
 
 [![Tanishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishi20079&count_private=True&theme=buefy&hide=stars,prs)](https://tanishi20079/About-Me/github-readme-stats)
 
-I have done more than 10 projects and have completed many courses and projects on Coursera platform related to Data Science and AI.
+I have worked on more than 10 projects and have completed online courses on Coursera related to Data Science and AI.
 
-"Learning has no age nor have any end!!"
 
 
