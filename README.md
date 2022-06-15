@@ -1,4 +1,4 @@
-### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="5px" width="5px">
+### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">
 
 <!--
 **Tanishi20079/About-Me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
