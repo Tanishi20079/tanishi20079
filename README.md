@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am **Tanishi Srivastava**, Computer Science Engineer. Currently I am pursuing M.Tech from IIIT Delhi. I am keen interested in working on cutting edge technologies. I have worked on ML, Data Science, Web and Android projects. I love to build new and innovative projects.<br>
-- 🔭 I’m currently working on bayesian classifier project
+I am **Tanishi Srivastava**, Computer Science Engineer. Currently working as Software Engineer at Qualcomm and completed M.Tech from IIIT Delhi. I am keen interested in working on cutting edge technologies. I have worked on ML, Data Science, Web and Android projects. I love to build new and innovative projects.<br>
+- 🔭 I’m currently working on Automation
 - 👯 I’m looking to collaborate on Research work and Data Science projects
 - 💬 Ask me about technology, innovations, how to start journey towards data science
 - 📫 How to reach me: You can directly reach me through LinkedIn
